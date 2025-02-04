@@ -42,7 +42,7 @@ public class ProductController
 
     //POST add product
     @PostMapping("/product")
-    public ResponseEntity<?> addProduct(@RequestPart Product product)
+    public ResponseEntity<?> addProduct(@RequestBody Product product)
     {
         try {
             System.out.println(product);
