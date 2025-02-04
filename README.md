@@ -1,3 +1,5 @@
+- Video Walkthrough:
+    https://youtu.be/DCVCmlcWBV8
 - start.spring.io
 - Made using JDK 21, Maven, Java, 3.4.2
 - Dependacies:
